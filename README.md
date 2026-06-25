@@ -1,6 +1,3 @@
-````markdown
-# 🌐 Personal Portfolio
-
 <p align="center">
   <img src="assets/images/logo.png" alt="Portfolio Logo" width="120">
 </p>
@@ -295,4 +292,4 @@ Special thanks to:
 <p align="center">
 Made with ❤️ by Arturo Yparraguirre
 </p>
-````
+
